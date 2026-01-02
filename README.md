@@ -9,7 +9,8 @@ This repository contains detailed writeups for two social engineering exercises 
  Exercise Writeups
 1. [Exercise 1: Phishing Email Analysis] - https://github.com/Abbie1750/social-engineering---lab/blob/main/exercise%201%20phishing%20analysis.md
     Analysis of phishing tactics and defense strategies
-2. [Exercise 2: OSINT Information Gathering] -  Open source intelligence collection methodology
+2. [Exercise 2: OSINT Information Gathering] - https://github.com/Abbie1750/social-engineering---lab/blob/main/exercise%202%20osint
+    Open source intelligence collection methodology
 
  Learning Objectives
 - Understand social engineering attack vectors
