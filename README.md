@@ -1,18 +1,28 @@
 My Social Engineering Project
+Student: ABIR SIDDIQ 
+Course: BCSS VULNERABILITY ANALYSIS  
+Date: January 2026  
 
-Hi! I'm ABIR.
+ Project Overview
+This repository contains detailed writeups for two social engineering exercises completed as part of my security education. Both exercises were conducted in a controlled, educational environment following ethical guidelines.
 
-This is my project where I learned about social engineering.
+ Exercise Writeups
+1. [Exercise 1: Phishing Email Analysis] - Analysis of phishing tactics and defense strategies
+2. [Exercise 2: OSINT Information Gathering] - Open source intelligence collection methodology
 
- What's Inside:
-1. Exercise 1: About phishing emails
-2. Exercise 2: About online information gathering
+ Learning Objectives
+- Understand social engineering attack vectors
+- Develop analytical skills for security threats
+- Create comprehensive security documentation
+- Apply ethical principles to security testing
 
- What I Learned:
-- How to stay safe online
-- How to recognize tricks
-- Why privacy is important
+ Ethical Statement
+All exercises were conducted in a controlled environment with no real targets or unauthorized access. These writeups are for educational purposes only to demonstrate defensive security knowledge.
+ Tools & Methods
+- Documentation: GitHub Markdown
+- Analysis: Manual examination
+- Research: Open source materials
+- Framework: Ethical security testing guidelines
 
- My Info:
-- GitHub: Abbie1750
-- Date: January 2026
+
+
