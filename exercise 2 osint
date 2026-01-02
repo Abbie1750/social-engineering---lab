@@ -1,23 +1,32 @@
- My Second Social Engineering Exercise
+ Exercise 2: OSINT (Open Source Intelligence) Research
 
- What I Did:
-I learned about finding public information online (OSINT).
+ Objective
+Gather publicly available information about a target.
 
- What I Found:
-1. People share too much information online
-2. You can find addresses, jobs, and friends online
-3. Attackers use this information to trick people
+ Methodology
+1. Google Search: Used advanced search operators
+2. Social Media: Checked LinkedIn, Twitter, Facebook
+3. Public Records: Searched WHOIS, business directories
+4. Image Analysis: Reverse image search
 
- Example:
-If I know where you work and who your boss is...
-I can send you a fake email from your boss!
+Tools
+- Google Dorking
+- Maltego (free version)
+- Social-searcher.com
+- HaveIBeenPwned
 
- What I Learned:
-Be careful what you share online.
-Use privacy settings on Facebook and other sites.
+ Results
+Found:
+- Employee names and positions
+- Email format patterns
+- Physical address
+- Previous data breaches
 
- Screenshots:
-I took pictures of my research.
+ Security Implications
+- Information leakage can enable spear phishing
+- Public data helps attackers craft convincing pretexts
 
- My Name: ABIR
-Date: January 2026
+ Protection Measures
+- Limit personal information online
+- Use privacy settings on social media
+- Regularly audit digital footprint
